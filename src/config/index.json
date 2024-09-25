@@ -35,13 +35,13 @@
     "title": "Sobre Nosotros",
     "items": [
       {
-        "title": "Productos",
-        "description": "Confecciones Soju se especializa en la fabricación de accesorios y ropa para mascotas, con un enfoque en la calidad y el bienestar de tus amigos peludos. Utilizamos materiales de alta calidad para crear productos que son cómodos y seguros, asegurando que cada artículo no solo sea bonito, sino también práctico y duradero.",
+        "title": "INSPIRACIÓN PARA SOJU:",
+        "description": "DESPUÉS DE UNA VIDA CÓMODA, ENFRENTARSE UN GOLPE INESPERADO QUE TE OBLIGÓ A REINICIAR. LA PÉRDIDA DE ALGUIEN QUERDIO TE DEJÓ CON LA RESPONSABILIDAD DE CUIDAR A TUS HIJOS Y ASEGURARTE DE QUE ESTUVIERAN BIEN. EN ESE MOMENTO, TUVISTE QUE ENCONTRAR LA FUERZA PARA SEGUIR ADELANTE, SER UNA MADRE FUERTE Y BRINDARLES TODO LO NECESARIO. DE ESTA EXPERIENCIA, NACIÓ SOJU, UNA MARCA QUE SIMBOLIZA LA ADAPTABILIDAD, LA RESILIENCIA Y EL AMOR INCONDICIONAL. QUIERES COMPARTIR ESTA HISTORIA CON OTROS, INSPIRÁNDOLOS A ENCONTRAR SU PROPIA FUERZA EN MOMENTOS DE CAMBIO Y DIFICULTAD.",
         "img": "/assets/images/2.png"
       },
       {
-        "title": "Nos caracteriza",
-        "description": "Nuestro compromiso es ofrecer lo mejor para tus mascotas, porque nosotros sabemos cuánto significan para ti.",
+        "title": "PRODUCTOS",
+        "description": "En SOJU, queremos que encuentres tu calma en medio de la tormenta. Nuestros productos están diseñados para brindarte comodidad y relajación, sin sacrificar estilo y elegancia. Nos enfocamos en ofrecer calidad y durabilidad, junto con inspiración para enfrentar los desafíos de la vida. Nuestros diseños incluyen una variedad de estampados, desde florales hasta geométricos o abstractos, en colores que van desde suaves y pastel hasta vibrantes y llamativos. Ya sea que prefieras un estilo clásico, moderno o minimalista, en SOJU tenemos algo para cada gusto.",
         "img": "/assets/images/logo.png"
       }
     ]
@@ -53,23 +53,23 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 311 2911811",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "SOJUHOGAR@GMAIL.COM",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@SOJU_HOGAR",
         "icon": "/assets/images/insta.png"
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "name": "Tiktok",
+        "description": "SOJU.CONFECIONES",
+        "icon": "/assets/images/tiktok.png"
       }
     ]
   },
