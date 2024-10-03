@@ -69,7 +69,8 @@
       {
         "name": "Tiktok",
         "description": "SOJU.CONFECIONES",
-        "icon": "/assets/images/tiktok.png"
+        "icon": "/assets/images/tiktok.png",
+        "url":""
       }
     ]
   },
