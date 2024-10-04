@@ -71,6 +71,12 @@
         "description": "SOJU.CONFECIONES",
         "icon": "/assets/images/tiktok.png",
         "url":""
+      },
+      {
+        "name": "Facebook",
+        "description": "CREACIONES SOJU",
+        "icon": "/assets/images/facebook.jpg  ",
+        "url":""
       }
     ]
   },
