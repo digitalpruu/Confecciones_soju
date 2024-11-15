@@ -64,19 +64,20 @@
       {
         "name": "Instagram",
         "description": "@SOJU_HOGAR",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/soju_hogar/"
       },
       {
         "name": "Tiktok",
         "description": "SOJU.CONFECIONES",
         "icon": "/assets/images/tiktok.png",
-        "url":""
+        "url":"https://www.tiktok.com/@soju.confeciones"
       },
       {
         "name": "Facebook",
         "description": "CREACIONES SOJU",
         "icon": "/assets/images/facebook.jpg  ",
-        "url":""
+        "url":"https://www.facebook.com/profile.php?id=100094289323575&mibextid=ZbWKwL"
       }
     ]
   },
